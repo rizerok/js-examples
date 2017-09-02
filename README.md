@@ -5,7 +5,7 @@ js-examples v0.0.1
 Install:
 -------------------
 ```sh
-git clone https://github.com/rizerok/webpack-react-project.git .
+git clone https://github.com/rizerok/js-examples.git .
 npm i
 ```
 
