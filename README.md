@@ -1,4 +1,4 @@
-webpack-react-project v0.0.1
+js-examples v0.0.1
 ===================
 
 
